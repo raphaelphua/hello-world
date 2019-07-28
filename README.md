@@ -7,7 +7,7 @@ Random1.
 
 ## Installing:
 
-```pip install -r requirements.txt````
+```pip install -r requirements.txt```
 Random2.gbxdtrt
 
 Random3.
