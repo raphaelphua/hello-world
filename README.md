@@ -1,11 +1,11 @@
 # hello-world
 1st code
 
-Prerequisites:
+# Prerequisites:
 
 Random1.
 
-Installing:
+## Installing:
 
 Random2.gbxdtrt
 
